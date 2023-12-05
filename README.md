@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MathewLG. I am computer scientist from Tec de Monterrey
+- 👋 Hi, I’m @MathewLG. I am computer scientist from Tec de Monterrey. I work as Software Developer at Oracle. 
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently learning Java and C.
-- 💞️ I’m looking to collaborate on web projects
+
 
 <!---
 MathewLG/MathewLG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
